@@ -1,0 +1,18 @@
+{
+  "customers": {
+    "AUTOMAC_TEST_001": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "test1@email.com",
+      "purchase_date": "2024-01-20",
+      "mac_address": ""
+    },
+    "AUTOMAC_TEST_002": {
+      "status": "inactive",
+      "plan": "lifetime", 
+      "email": "test2@email.com",
+      "purchase_date": "2024-01-20",
+      "mac_address": ""
+    }
+  }
+}
