@@ -1,15 +1,123 @@
 {
-  "licenses1": {
-    "freetest": {
+  "licenses": {
+    "KpHT5JdxW415": {
       "status": "active",
       "plan": "lifetime",
-      "email": "mario@email.com",
+      "email": "cliente1@email.com",
       "created": "2024-01-20"
     },
-    "ALICE_VERDI_002": {
-      "status": "active", 
+    "7FgR92mLpQ3X": {
+      "status": "active",
       "plan": "lifetime",
-      "email": "alice@email.com",
+      "email": "cliente2@email.com",
+      "created": "2024-01-20"
+    },
+    "Z8nB3vCtY6qW": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente3@email.com",
+      "created": "2024-01-20"
+    },
+    "X9kL2sDfG7hJ": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente4@email.com",
+      "created": "2024-01-20"
+    },
+    "R5tM8pQzV1bN": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente5@email.com",
+      "created": "2024-01-20"
+    },
+    "T3cK9wLjH4sP": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente6@email.com",
+      "created": "2024-01-20"
+    },
+    "N6fB2vXmZ8qR": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente7@email.com",
+      "created": "2024-01-20"
+    },
+    "L9dF4sG7hJ2k": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente8@email.com",
+      "created": "2024-01-20"
+    },
+    "P2rT5yU8iO1q": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente9@email.com",
+      "created": "2024-01-20"
+    },
+    "W4sH7jK2lM5n": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente10@email.com",
+      "created": "2024-01-20"
+    },
+    "Q1wE3rT5yU7i": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente11@email.com",
+      "created": "2024-01-20"
+    },
+    "S6dF9gH2jK4l": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente12@email.com",
+      "created": "2024-01-20"
+    },
+    "M3nB4vC5xZ6q": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente13@email.com",
+      "created": "2024-01-20"
+    },
+    "J8kL1pO9iU7y": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente14@email.com",
+      "created": "2024-01-20"
+    },
+    "V2bN3mK4jL5h": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente15@email.com",
+      "created": "2024-01-20"
+    },
+    "G7hF8dS3aQ2w": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente16@email.com",
+      "created": "2024-01-20"
+    },
+    "Y5tR4eW3qT2u": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente17@email.com",
+      "created": "2024-01-20"
+    },
+    "H6jK9lZ8xC2v": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente18@email.com",
+      "created": "2024-01-20"
+    },
+    "D1fG3hJ5kL7m": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente19@email.com",
+      "created": "2024-01-20"
+    },
+    "A4sD7fG9hJ2k": {
+      "status": "active",
+      "plan": "lifetime",
+      "email": "cliente20@email.com",
       "created": "2024-01-20"
     }
   }
