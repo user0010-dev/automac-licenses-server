@@ -1,18 +1,16 @@
 {
-  "customers": {
-    "AUTOMAC_TEST_001": {
+  "licenses": {
+    "MARIO_ROSSI_001": {
       "status": "active",
       "plan": "lifetime",
-      "email": "ishminder2011@icloud.com",
-      "purchase_date": "2025-07-25",
-      "mac_address": ""
+      "email": "mario@email.com",
+      "created": "2024-01-20"
     },
-    "AUTOMAC_TEST_002": {
-      "status": "inactive",
-      "plan": "lifetime", 
-      "email": "",
-      "purchase_date": "",
-      "mac_address": ""
+    "ALICE_VERDI_002": {
+      "status": "active", 
+      "plan": "lifetime",
+      "email": "alice@email.com",
+      "created": "2024-01-20"
     }
   }
 }
